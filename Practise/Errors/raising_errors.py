@@ -76,4 +76,4 @@ def colorize_text(color_number, text):
         print('violet ' + text)
 
 
-colorize_text(4, 'True')
+colorize_text(9, 'True')
